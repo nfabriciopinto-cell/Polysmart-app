@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+.vscode/
+*.log
+node-v24.18.0-win-x64/
